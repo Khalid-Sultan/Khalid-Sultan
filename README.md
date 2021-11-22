@@ -35,6 +35,13 @@
 [<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />][git]
 
 <br />
+
+### Github Stats
+![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khalid-Sultan&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Sultan&hide=css,makefile,html,cmake&layout=compact)
+
+
 <br />
 
 [website]: https://khalid-sultan.netlify.app
