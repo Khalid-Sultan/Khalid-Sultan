@@ -1,18 +1,18 @@
 
-## Hi there wave, I'm Khalid
+## Hi there 👋, I'm Khalid
 
-### I'm a Backend Engineer, ML Enthusiast, Security Fanatic, Weeb and fellow Mediocre Developer (jk)!
+### I'm a Backend Engineer, ML Enthusiast, Weeb and fellow Mediocre Developer (jk)!
 
-- ⚡ I am currently working on improving my competitive programming skills as well as assisting as a mentor in a talent upskilling program in developing countries called A2SV.
-- 🌱 I am learning everything that interests me 
+- ⚡ I am currently working as a Backend Team Lead at Eskalate LLC and working on improving my competitive programming skills as well as assisting as a mentor in a talent upskilling program in developing countries called A2SV.
 - 🔭 I am looking for work with companies and people where I can contribute as much as I possibly can
+- 🌱 I am learning ML, Typescript and Data scraping. 
 - 🥅 2022 Goals: 
     - Have a stable work environment, 
-    - Work on one or two fun projects that actually help someone, 
-    - Be more physically fit and eat better, 
-    - Read 20 books, 
-    - Start drawing and playing either a piano or a guitar 
-
+    - Freelance,
+    - Work on a few meaningful projects,
+    - Read 10 books and,
+    - Start a new hobby
+   
 ### Connect with me
 
 [<img align="left" alt="khalid-sultan.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
